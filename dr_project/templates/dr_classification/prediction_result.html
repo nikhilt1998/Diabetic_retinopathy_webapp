@@ -1,0 +1,24 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{% static 'css/predict_result.css' %}">
+    <title>result</title>
+</head>
+<body>
+<h1>Prediction: {{ result }}</h1>
+
+<p>A clinician has rated each image for the severity of diabetic retinopathy on a scale of 0 to 4:<br><br>
+    0 - No DR <br>
+    1 - Mild (Please consult a doctor)<br>
+    2 - Moderate (Please consult a doctor)<br>
+    3 - Severe (Please consult a doctor)<br>
+    4 - Proliferative DR (Please consult a doctor)
+</p>
+</body>
+</html>

@@ -1,0 +1,25 @@
+body{
+    background: url("../img/report.jpeg") no-repeat ;
+    background-size: cover;
+    /*background-color: crimson;*/
+    /*background-position: center;*/
+}
+h1{
+     color: white;
+    font-size: 50px;
+    /*align-content: center;*/
+}
+
+h2,h3,h4,h5,h6{
+    color: white;
+    font-size: 20px;
+}
+
+form{
+    position: center;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
