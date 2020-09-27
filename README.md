@@ -13,8 +13,7 @@ Clinicians can identify DR by the presence of lesions associated with the vascul
 The need for a comprehensive and automated method of DR screening has long been recognized, and previous efforts have made good progress using image classification, pattern recognition, and machine learning. With color fundus photography as input, the goal of this competition is to push an automated detection system to the limit of what is possible – ideally resulting in models with realistic clinical potential. The winning models will be open sourced to maximize the impact such a model can have on improving DR detection. 
 This my attempt to accomplish the task.
 
- Website <img src="Output/p1.png" >  For Normal Eye <img src="Output/p2.png"> For Infected Eye <img src="Output/p3.png"> 
-
+ 
 ### Requirements
 For installing requirements: pip install requirements.txt.
 
