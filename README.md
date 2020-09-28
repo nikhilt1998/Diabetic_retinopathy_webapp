@@ -17,8 +17,8 @@ This my attempt to accomplish the task.
 ### Requirements
 For installing requirements: pip install requirements.txt.
 
-For model file(.hdf5 or .h5) please visit the [kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection) page and copy the model file in models directory in the disease classification app to follow as per the code.
+For model file(.hdf5 or .h5) please visit the [kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection) page and save the model file in models directory in the DR classification app to follow as per the code.
 
 ### Future Works
-Even though the model might classify well and give good results there are a lot of chances to improve.
+Even though the model might classify well and give good results but still there are a lot of chances to improve :)
 
