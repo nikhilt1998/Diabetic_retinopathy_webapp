@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Webapp
+# Diabetic Retinopathy Webapp (https://dr-prediction-app.herokuapp.com/)
 An AI powered website to check whether the person is suffering from diabetic retinopathy or not.
 
 #### Tech Stack: Deep Learning, Django, Python, Basic Frontend technologies (HTML5, CSS)
@@ -16,8 +16,6 @@ This my attempt to accomplish the task.
  
 ### Requirements
 For installing requirements: pip install requirements.txt.
-
-For model file(.hdf5 or .h5) please visit the [kaggle competition](https://www.kaggle.com/c/diabetic-retinopathy-detection) page and save the model file in models directory in the DR classification app to follow as per the code.
 
 ### Future Works
 Even though the model might classify well and give good results but still there are a lot of chances to improve :)
