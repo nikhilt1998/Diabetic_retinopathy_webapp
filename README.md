@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Webapp (https://dr-prediction-app.herokuapp.com/)
+# Diabetic Retinopathy [Webapp](https://dr-prediction-app.herokuapp.com/)
 An AI powered website to check whether the person is suffering from diabetic retinopathy or not.
 
 #### Tech Stack: Deep Learning, Django, Python, Basic Frontend technologies (HTML5, CSS)
