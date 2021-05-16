@@ -19,3 +19,6 @@ For installing requirements: pip install requirements.txt.
 ### Future Works
 Even though the model might classify well and give good results but still there are a lot of chances to improve :)
 
+
+### Screenshots of application
+<img src="Output/ss1.png"> <img src="Output/ss2.png">
