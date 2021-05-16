@@ -21,4 +21,9 @@ Even though the model might classify well and give good results but still there 
 
 
 ### Screenshots of application
-<img src="Output/ss1.png"> <img src="Output/ss2.png">
+
+#### Home
+<img src="SS/ss1.png">
+
+#### Result
+<img src="SS/ss2.png">
