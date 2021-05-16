@@ -25,5 +25,5 @@ Even though the model might classify well and give good results but still there 
 #### Home
 <img src="SS/ss1.png">
 
-#### Result
+#### Result (After uploading scanned image, vary as per the conditions of the DR) 
 <img src="SS/ss2.png">
